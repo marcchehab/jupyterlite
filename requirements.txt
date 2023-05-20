@@ -47,4 +47,3 @@ bqplot
 # Turtle
 ipycc
 jupyter_contrib_nbextensions
-stickyland
