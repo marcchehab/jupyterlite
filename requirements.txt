@@ -46,4 +46,4 @@ bqplot
 
 # Turtle
 ipycc
-jupyterlab_cell_autorun_kernel_restart
+jupyterlab_autorun_cells
