@@ -47,3 +47,4 @@ bqplot
 # Turtle
 ipycc
 jupyterlab_autorun_cells
+Pil-Lite
